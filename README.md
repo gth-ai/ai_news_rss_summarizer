@@ -91,15 +91,12 @@ You can modify the analysis parameters in `rss_analyzer.py`:
 
 ## 📝 License
 
-[Your chosen license]
+MIT
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📬 Contact
-
-[Your contact information or preferred method of contact]
 
 ---
 *Note: This tool is not officially affiliated with AI News or Buttondown.email. It's an independent project designed to enhance the reading experience of their excellent newsletter.* 
