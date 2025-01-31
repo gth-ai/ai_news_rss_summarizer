@@ -71,6 +71,7 @@ The script will:
 4. Open the report in your default web browser
 
 ## 📊 Output Structure
+![html_report](./images/html_report.png)
 
 The generated HTML report includes:
 - **Executive Summary**: Overview of key trends and patterns
